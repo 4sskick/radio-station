@@ -7,11 +7,7 @@
 		{
 			"name": "Mustang FM Radio",
 			"values": "http://live.indostreamserver.com:8800/mustang"
-		},
-		{
-			"name": "Delta FM Radio",
-			"values": "http://masima.rastream.com//masima-deltajakarta.android"
-		},
+		},		
         {
             "name": "RTL Radio",
             "values": "http://streaming.radio.rtl.fr:80/rtl-1-44-96"
