@@ -2,7 +2,7 @@
     "radio_station": [
 		{
 			"name": "Radio NFO Anime",
-			"values": "http://emaru.animenfo.com:443/"
+			"values": "http://momori.animenfo.com:8080/"
 		},
 		{
 			"name": "Kaskus Radio",
