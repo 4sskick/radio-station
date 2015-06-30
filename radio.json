@@ -1,6 +1,10 @@
 {
     "radio_station": [
 		{
+			"name": "Radio NFO Anime",
+			"values": "http://emaru.animenfo.com:443/"
+		},
+		{
 			"name": "Kaskus Radio",
 			"values": "http://us.kradio.in:8888"
 		},
