@@ -1,7 +1,11 @@
 {
     "radio_station": [
 		{
-			"name": "Radio NFO Anime",
+			"name": "Vocaloid Radio",
+			"values": "http://streaming.radionomy.com/RadioVocaloid"
+		},
+		{
+			"name": "NFO Radio Anime",
 			"values": "http://momori.animenfo.com:8000/"
 		},
 		{
